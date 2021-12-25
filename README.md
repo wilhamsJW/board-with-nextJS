@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`npx create-next-app@latest
+`](https://nextjs.org/docs/getting-started) 
+
+(Após digitar o comando acima irá perguntar qual o nome da pasta que deseja dá ao projeto, não é necesssário colocar o nome do projeto junto ao comando acima)
 
 ## Getting Started
 
