@@ -1,7 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`npx create-next-app@latest
 `](https://nextjs.org/docs/getting-started) 
 
+===========================================================================
+
+## Commands used in the project
+
+1. `npx create-next-app@latest`
 (Após digitar o comando acima irá perguntar qual o nome da pasta que deseja dá ao projeto, não é necesssário colocar o nome do projeto junto ao comando acima)
+
+2. `npm install typescript --save-dev`
+
+3. `npm install --save-dev @types/react``
+(Ao rodar o servidor terá q aparecer esta msg no terminal: `We detected TypeScript in your project and created a tsconfig.json file for you.`)
+
+
+
+===========================================================================
 
 ## Getting Started
 
