@@ -1,7 +1,18 @@
+import Head from 'next/head';
 
+import styles from '../pages/styles/styles.module.scss';
 
 export default function Home() {
   return (
-    <h1>Primeiro Projeto NextJS</h1>
+    <>
+    <Head>
+        <title>Board - Organizing your tasks.</title>
+    </Head>
+    <div>
+      <h1 className={styles.title}>
+        Primeiro Projeto NextJS
+      </h1>
+    </div>
+    </>
   )
 }

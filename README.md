@@ -13,7 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`npx create-
 3. `npm install --save-dev @types/react``
 (Ao rodar o servidor terá q aparecer esta msg no terminal: `We detected TypeScript in your project and created a tsconfig.json file for you.`)
 
-
+4. `npm add sass`
 
 ===========================================================================
 
